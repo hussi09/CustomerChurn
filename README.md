@@ -1,2 +1,2 @@
 # CustomerChurn
-Predicting Customer Churn with Python
+Churn is when a customer stops doing business or ends a relationship with a company. It’s a common problem across a variety of industries, from telecommunications to cable TV to SaaS, and a company that can predict churn can take proactive action to retain valuable customers and get ahead of the competition. This course will provide you a roadmap to create your own customer churn models. You’ll learn how to explore and visualize your data, prepare it for modeling, make predictions using machine learning, and communicate important, actionable insights to stakeholders. By the end of the course, you’ll become comfortable using the pandas library for data analysis and the scikit-learn library for machine learning.
